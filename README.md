@@ -19,8 +19,8 @@ CampusLife soll Studierenden die Möglichkeit bieten, sich mit anderen Studieren
 Dieses Tagebuch hält fest, was jede Woche am CampusLife-Projekt gearbeitet wurde und welche Schritte als nächstes anstehen. Das Ziel ist Transparenz und die Möglichkeit für Interessierte, die Entwicklung der Plattform live mitzuverfolgen.
 
 ### Wöchentliche Updates
-- **Woche 1**: [Entwicklung gestartet](https://username.github.io/path-to-week1)
-- **Woche 2**: [Design- und Feature-Planung abgeschlossen](https://username.github.io/path-to-week2)
+- **Woche 1**: [Entwicklung gestartet](https://solovyanchuk.github.io/campuslife_site/week1)
+- **Woche 2**: [Design- und Feature-Planung abgeschlossen](https://solovyanchuk.github.io/campuslife_site/week2)
 - (Weitere Wochen folgen…)
 
 > Hinweis: Die Links zu den wöchentlichen Updates werden jede Woche aktualisiert.
